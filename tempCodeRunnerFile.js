@@ -1,0 +1,1 @@
+const wLength = word.length;
